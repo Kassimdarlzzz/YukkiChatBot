@@ -17,7 +17,6 @@ from pyrogram import filters, idle
 from pyrogram.errors import FloodWait
 from pyrogram.types import Message
 
-import config
 import mongo
 from mongo import db
 
